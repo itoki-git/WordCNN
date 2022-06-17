@@ -130,3 +130,5 @@ dmypy.json
 train/
 Data_3word/
 *.h5
+AlconTest/
+AlconProgram/kana_prob/
