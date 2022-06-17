@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+train/
+Data_3word/
+*.h5
